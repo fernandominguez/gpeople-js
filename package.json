@@ -2,7 +2,7 @@
   "name": "gpeople-js",
   "version": "0.0.0",
   "description": "Simple Google People API client for nodejs",
-  "main": "gpeople-js.js",
+  "main": "gpeople.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
