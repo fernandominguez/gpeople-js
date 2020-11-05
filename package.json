@@ -4,7 +4,7 @@
   "description": "Simple Google People API client for nodejs",
   "main": "gpeople.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,9 @@
   "dependencies": {
     "http": "0.0.1-security",
     "https": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "8.1.3"
   }
 }
