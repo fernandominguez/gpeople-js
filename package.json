@@ -1,0 +1,29 @@
+{
+  "name": "gpeople-js",
+  "version": "0.0.0",
+  "description": "Simple Google People API client for nodejs",
+  "main": "gpeople-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandominguez/gpeople-js.git"
+  },
+  "keywords": [
+    "google",
+    "people",
+    "api",
+    "client",
+    "nodejs"
+  ],
+  "author": "Fernando Domínguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernadominguez/gpeople-js/issues"
+  },
+  "homepage": "https://github.com/fernandominguez/gpeople-js",
+  "dependencies": {
+    "request": "2.88.2"
+  }
+}
