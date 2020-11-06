@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/fernandominguez/gpeople-js",
   "dependencies": {
+    "@grpc/grpc-js": "1.1.7",
     "http": "0.0.1-security",
     "https": "1.0.0"
   },
